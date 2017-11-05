@@ -1,2 +1,4 @@
 # companyLimited
-Displaying salary dates and fortnightly expenses date
+Once you clone the project, simply run the commany;
+
+./CompanyLimited.php
