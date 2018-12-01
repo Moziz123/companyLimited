@@ -93,7 +93,7 @@ class PaymentSceduler{
                       $dateInMonth = substr($key, 3, 2) - 2;
                       $this->salaryDates[$value] = $year . '-' . substr($key, 0, 2) . '-' . $dateInMonth;
                  }else{ 
-                      $this->salaryDates[$value] = $date;
+                      $this->salaryDates[$value] = $dateas;
                  }
           }      
 
